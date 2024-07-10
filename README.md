@@ -37,7 +37,7 @@
 
 - 📫 Feel free to reach me out **adityarandhawa2001@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [noobmaster-00](https://discordapp.com/users/Bakugon#9586) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Bakugon#9586](https://discordapp.com/users/Bakugon#9586) my username!
 <!--Intro end-->
 
 
