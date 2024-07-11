@@ -1,7 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![Moyo_tvoyo_ I will create an anime or lofi illustration in the ghibli style for $400 on fiverr_com](https://github.com/noobmaster-00/noobmaster-00/assets/76901346/d091f957-0dc8-46c5-80a3-d8dcf1673b49)
 
 
 <!--h1 without bottom border-->
