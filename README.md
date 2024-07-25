@@ -12,12 +12,6 @@
 
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
 
 ![abc](https://github.com/noobmaster-00/noobmaster-00/assets/76901346/07f837f7-08ae-47ae-9946-6b6daa4f2aac)
 <!--Intro start-->
